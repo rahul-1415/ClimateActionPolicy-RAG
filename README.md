@@ -26,8 +26,7 @@ Ensure you have the following installed:
 Install the following Python packages using pip:
 ```bash
   pip install pandas nltk wordcloud matplotlib chromadb langchain_community   langchain_chroma
-    ```
-
+```
 
 
 ### Installation
@@ -39,9 +38,9 @@ Install the following Python packages using pip:
     ```
 
 2. Install the necessary dependencies:
-```bash
+  ```bash
   pip install pandas nltk wordcloud matplotlib chromadb langchain_community   langchain_chroma
-    ```
+  ```
 
 ### Usage
 
